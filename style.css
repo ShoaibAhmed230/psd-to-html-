@@ -24,7 +24,7 @@ nav ul li {
   text-transform: uppercase;
 }
 .hero-section {
-  background-image: url("/images/Background.png");
+  background-image: url("images/Background.png");
   width: 100%;
   height: 550px;
   background-size: cover;
